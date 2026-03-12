@@ -23,7 +23,11 @@ If y represents the dependent variable and x the independent variable, this rela
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
+# Output 
+<img width="1205" height="959" alt="image" src="https://github.com/user-attachments/assets/0a1b72e0-7e2c-4356-a4f7-28681c32d074" />
 
 # Result
+Thus the correlation coefficient and regression line were calculated using Python.
+The correlation coefficient obtained is 1.000 and the regression equation of Y on X is
+y = 35.000 + 1.000 (x − 30.000).
 
-# Output 
