@@ -1,3 +1,5 @@
+DATE:11.02.26
+
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -30,4 +32,7 @@ If y represents the dependent variable and x the independent variable, this rela
 Thus the correlation coefficient and regression line were calculated using Python.
 The correlation coefficient obtained is 1.000 and the regression equation of Y on X is
 y = 35.000 + 1.000 (x − 30.000).
+
+GITHUB LINK:
+https://github.com/Dinesh7311/Correlation_Regression
 
